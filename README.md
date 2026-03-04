@@ -53,23 +53,3 @@ The project follows **Object-Oriented Programming (OOP)** principles and integra
 * time
 * fileinfo
 * weather
-
----
-
-## Project Structure
-
-SESD-Workshop-2
-│
-├── commands
-├── core
-├── dist
-├── index.ts
-├── package.json
-├── tsconfig.json
-└── README.md
-
----
-
-## Author
-
-Developed for the **SESD Workshop Assignment** using **Node.js and TypeScript**.
